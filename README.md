@@ -17,9 +17,9 @@ I enjoy building systems that connect the physical and digital worlds — from d
   Real-time system using computer vision to detect and count vehicles.  
   *Tech:* Python, YOLO, OpenCV, Streamlit  
 
-- **[Hand Gesture Controlled Drone for Automated Mapping](https://github.com/Badaszz/Hand_gesture_controlled_drone_for_topographic_mapping)**  
-  Built a drone controlled by hand gestures to automate topographic mapping using photogrammetry.  
-  *Tech:* DroneKit, ESP32-CAM, Python, MediaPipe  
+- **[Hand Gesture Controlled Drone for Mapping](https://github.com/Badaszz/Hand_gesture_controlled_drone_for_topographic_mapping)**  
+  Implemented Hand gesture control in a drone and configured it for topographic mapping.  
+  *Tech:* PyMAVLink, MSP, DroneKit, ESP32-CAM, Python, MediaPipe, ESP8266  
 
 - **[Naive Obstacle Avoidance Robot](https://github.com/Badaszz/Naive-Obstacle-Avoidance-Robot-ROS-2-)**  
   Simple autonomous robot that avoids obstacles using sensor feedback.  
