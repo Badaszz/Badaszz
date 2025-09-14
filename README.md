@@ -32,7 +32,7 @@ I enjoy building systems that connect the physical and digital worlds — from d
   I am documenting my learning from the book by oreilly in a github repo
 - **An Introduction to autonomous robots**
   I have forked this repo containing the contents of the book Nikolaus Correll, Bradley Hayes, Christoffer Heckman and Alessandro Roncone. Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms, MIT Press, 2022 (forthcoming)
-- **Implemented various Machine Learning modules from scratch**
+- **Implemented various Machine Learning models from scratch**
 
 ---
 
