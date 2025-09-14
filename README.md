@@ -13,15 +13,15 @@ I enjoy building systems that connect the physical and digital worlds — from d
 
 ## 🔥 Featured Projects  
 
-- **[Vehicle Detection & Counting System]((https://github.com/Badaszz/Vehicle-Detection-And-Counting))**  
+- **[Vehicle Detection & Counting System](https://github.com/Badaszz/Vehicle-Detection-And-Counting)**  
   Real-time system using computer vision to detect and count vehicles.  
   *Tech:* Python, YOLO, OpenCV, Streamlit  
 
-- **[Hand Gesture Controlled Drone for Automated Mapping]((https://github.com/Badaszz/Hand_gesture_controlled_drone_for_topographic_mapping))**  
+- **[Hand Gesture Controlled Drone for Automated Mapping](https://github.com/Badaszz/Hand_gesture_controlled_drone_for_topographic_mapping)**  
   Built a drone controlled by hand gestures to automate topographic mapping using photogrammetry.  
   *Tech:* DroneKit, ESP32-CAM, Python, MediaPipe  
 
-- **[Naive Obstacle Avoidance Robot]((https://github.com/Badaszz/Naive-Obstacle-Avoidance-Robot-ROS-2-))**  
+- **[Naive Obstacle Avoidance Robot](https://github.com/Badaszz/Naive-Obstacle-Avoidance-Robot-ROS-2-)**  
   Simple autonomous robot that avoids obstacles using sensor feedback.  
   *Tech:* ROS 2, Bash, Python, Gazebo, LiDAR  
 
