@@ -32,7 +32,7 @@ I enjoy building systems that connect the physical and digital worlds — from d
   I am documenting my learning from the book by oreilly in a github repo
 - **An Introduction to autonomous robots**
   I have forked this repo containing the contents of the book Nikolaus Correll, Bradley Hayes, Christoffer Heckman and Alessandro Roncone. Introduction to Autonomous Robots: Mechanisms, Sensors, Actuators, and Algorithms, MIT Press, 2022 (forthcoming)
-- **Implemented Machine Learning module from scratch**
+- **Implemented various Machine Learning modules from scratch**
 
 ---
 
@@ -63,10 +63,10 @@ I enjoy building systems that connect the physical and digital worlds — from d
 
 - [LinkedIn](www.linkedin.com/in/yusuf-solomon)  
 - [Hashnode Blog](https://ysolomon.hashnode.dev/)  
-- [X]([@I_BadaSZ](https://x.com/I_BadaSZ))  
+- [X_account](https://x.com/I_BadaSZ)  
 - 📧 Email: ysolomon298@gmail.com  
 
 ---
 
-⭐️ *Aspiring Robotics R&D Engineer aiming to pursue a Master’s in Robotics at a prestigious university and eventually a PhD*  
+⭐️ *Aspiring Robotics R&D Engineer aiming to pursue a Master’s in Robotics at a prestigious university and eventually a PhD in Robotics and another in AI*  
 
