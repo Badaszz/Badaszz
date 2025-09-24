@@ -60,7 +60,7 @@ I enjoy building systems that connect the physical and digital worlds — from d
 
 ## 📫 Connect With Me  
 
-- [LinkedIn](www.linkedin.com/in/yusuf-solomon)  
+- [LinkedIn](https://www.linkedin.com/in/yusuf-solomon)  
 - [Hashnode Blog](https://ysolomon.hashnode.dev/)  
 - [X_account](https://x.com/I_BadaSZ)  
 - 📧 Email: ysolomon298@gmail.com  
