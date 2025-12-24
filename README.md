@@ -1,5 +1,5 @@
 ## Hi, I'm Yusuf Solomon 👋  
-🎓 Mechatronics Engineering Graduate | 🤖 Robotics & AI Enthusiast | 🚀 Future Robotics R&D (Software) Engineer | 🌱 Interested in automating livestock rearing and fisheries  
+🎓 Mechatronics Engineering Graduate | 🤖 Robotics & AI Enthusiast | 🚀 Future Robotics R&D (Software) Engineer | 🌱 Interested in automating livestock rearing and fisheries (Precision Agriculture) 
 
 ---
 
@@ -40,6 +40,7 @@ I enjoy building systems that connect the physical and digital worlds — from d
 - **FlexiSAF Internship** – Generative AI & Data Science (Computer Vision, PyTorch, Pose Recognition)  
 - **SIWES Industrial Training – Seven Up Bottling Company** (Electrical + Mechanical Engineering)
 - **Undergraduate Studies - Bells university of technology** (First class, 4.88CGPa Graduate of Mechatronics Engineering)
+- Currently working as a **Machine Leanring Engineer**
 - **Certifications:**  
   - Python for Robotics (The Construct)  
   - Linux for Robotics (The Construct)  
