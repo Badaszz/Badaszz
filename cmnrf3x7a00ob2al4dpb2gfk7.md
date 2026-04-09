@@ -136,7 +136,7 @@ The **Extended Kalman Filter** handles this by linearizing the nonlinear equatio
 
 ## The Implementation
 
-This implementation was built and tested in **Webots** — a free open-source robot simulator — using an e-puck robot with wheel encoders and a gyroscope. The `ekf_step()` function itself is completely general and works anywhere — just feed it the right inputs.
+This implementation was built and tested in **Webots**. Webots is a free open-source robot simulator, using an e-puck robot with wheel encoders and a gyroscope. The `ekf_step()` function itself is completely general and works anywhere, just feed it the right inputs.
 
 ### Helper Functions
 
