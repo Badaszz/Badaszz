@@ -1,7 +1,7 @@
 ---
 title: "Explainable AI: Understanding What Your Model Actually Learned"
 seoTitle: "Explaining the predictions and decisions of  AI and ML "
-seoDescription: "An articlethat explores how we can decouple the black-box that is AI models, from decision trees to text classifiers, clustering models and even LLMs."
+seoDescription: "Learn how local, faithful explanations, reveal what models are actually using, build trust, and help debug predictions in high‑stakes domains."
 datePublished: 2026-05-11T07:01:03.363Z
 cuid: cmp0urzzf001x2bmg4kpcgx0h
 slug: explainable-ai-understanding-what-your-model-actually-learned
@@ -10,7 +10,7 @@ tags: ai, machine-learning, xai, llm
 
 ---
 
-AI models are used to make decisions in the real world, but it can easily be treated as a black box. I doubt anybody would be so eager to take advice from a system that they cannot explain. For every decision a business or a person takes, the reason for that decision is very important. Knowing why we are making a decision, the factors that affect that decision and when our reasoning for making that decision would no longer be valid are all very crucial, especially in the field of AI.
+AI models are used to make decisions in the real world, but it can easily be treated as a black box. Nobody should be take advice from a system that they cannot explain. For every decision a business or a person takes, the reason for that decision is very important. Knowing why we are making a decision, the factors that affect that decision and when our reasoning for making that decision would no longer be valid are all very crucial, especially in the field of AI.
 
 Ribeiro et al. (2016) formalize why local, faithful explanations help users trust individual predictions and the model, and show how explanation systems (LIME) can guide debugging and model improvement.
 
